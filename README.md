@@ -1,5 +1,12 @@
 # sandesh-portfolio
-website to showcase my portfolio
-this is my personal portfolio in making a demo file to know everything about me
-like who am i and what i do etc
+Hey! Welcome to my portfolio. 
+
+It's coming up in some days when i learn HTML and CSS.
+
+Currently, I Know :
+
+1. JavaScript
+1. NodeJs
+1. Repl.it
+1. CHALK
 
